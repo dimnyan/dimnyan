@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nyoman Lanang Kresna. My close people calls me as Dimas
-- 👀 I’m interested in Tech, Games(Valorant), Basketball(Toronto Raptors)
-- 🌱 I’m currently learning about HTML and CSS
+- 👀 I’m interested in Anime, Tech, FPS Games, Basketball(Toronto Raptors)
+- 🌱 I’m currently learning about Vanilla JS
 - 💞️ I’m looking to collaborate on WebDev projects!
 - 📫 How to reach me IG @dimnyan or my email dimasnyoman1@gmail.com
 
