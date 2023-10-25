@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Nyoman Lanang Kresna. My close people calls me as Dimas
-- 👀 I’m interested in Anime, Tech, FPS Games, Basketball(Toronto Raptors)
+- 👋 Hi, I’m Nyoman Lanang Kresna. You can also call me Dimas
+- 👀 I’m interested in Sports like Basketball(Toronto Raptors)
 - 🌱 I’m currently learning about ReactJS
 - 💞️ I’m looking to collaborate on WebDev projects!
-- 📫 How to reach me IG @dimnyan or my email dimasnyoman1@gmail.com
+- 📫 How to reach me IG @dimnyan or my email dimas@dimnyan.tech
 
 <!---
 dimnyan/dimnyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
