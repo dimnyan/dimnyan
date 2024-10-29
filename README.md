@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nyoman Lanang Kresna.
-- 👀 Mainly interested in Sports like Basketball
-- 🌱 I’m a Fullstack Dev in NextJS / ReactJS, Go, Spring Boot, ExpressJs
+- 👀 I’m a Fullstack Dev in NextJS / ReactJS, Go, Spring Boot, ExpressJs, MongoDB, Postgres!
+- 🌱 My hobby is mainly Sports like Basketball or Golf!
 - 💞️ I’m looking to collaborate on AI projects!
 - 📫 How to reach me IG @dimnyan or my email dimasnyoman1@gmail.com
 
