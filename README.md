@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nyoman Lanang Kresna. You can also call me Dimas
+- 👋 Hi, I’m Nyoman Lanang Kresna.
 - 👀 Mainly interested in Sports like Basketball
-- 🌱 I’m currently learning about NextJS / ReactJS
-- 💞️ I’m looking to collaborate on WebDev projects!
+- 🌱 I’m a Fullstack Dev in NextJS / ReactJS, Go, Spring Boot, ExpressJs
+- 💞️ I’m looking to collaborate on AI projects!
 - 📫 How to reach me IG @dimnyan or my email dimasnyoman1@gmail.com
 
 <!---
